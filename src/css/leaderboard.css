@@ -1,0 +1,164 @@
+.lblink{
+    position: relative;
+    right: 550px;
+    color: #30475e;
+    text-decoration: none;
+}
+
+.lblink:hover {
+    text-decoration: underline;
+    text-decoration-color: #30475e;
+}
+
+.listli{
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.teams{
+    position: absolute;
+    left: 200px;
+    width: 200px;
+    height: auto;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams1{
+    position: absolute;
+    left: 450px;
+    width: 200px;
+    height: auto;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams2{
+    position: absolute;
+    left: 700px;
+    width: 200px;
+    height: auto;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams3{
+    position: absolute;
+    left: 950px;
+    width: 200px;
+    height: auto;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams4{
+    position: absolute;
+    left: 350px;
+    top: 450px;
+    width: 280px;
+    height: 180px;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams5{
+    position: absolute;
+    left: 650px;
+    top: 450px;
+    width: 280px;
+    height: 180px;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams6{
+    position: absolute;
+    left: 500px;
+    top: 650px;
+    width: 280px;
+    height: 180px;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.teams7{
+    position: absolute;
+    left: 400px;
+    top: 850px;
+    width: 500px;
+    height: 30px;
+    height: auto;
+    border: none;
+    background: rgb(219, 217, 217);
+    box-shadow: 5px 10px rgb(114, 114, 114);
+}
+
+.button1{
+  border: none;
+  width: 30px;
+  height: 20px;
+  background: rgb(207, 67, 67);
+  color: white;
+  border-radius: 3px;
+  font: bold;
+}
+
+.semi1{
+    position: absolute;
+    left: 350px;
+    width: 300px;
+    height: 150px;
+    border-radius: 3px;
+    background: rgb(103, 156, 224);
+    color: white;
+}
+
+.semi2{
+    position: absolute;
+    left: 700px;
+    width: 300px;
+    height: 150px;
+    border-radius: 3px;
+    background: rgb(103, 156, 224);
+    color: white;
+}
+
+.final{
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    width: 300px;
+    height: 150px;
+    border-radius: 3px;
+    background: rgb(103, 156, 224);
+    color: white;
+}
+
+.final{
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    width: 300px;
+    height: 150px;
+    border-radius: 3px;
+    background: rgb(223, 91, 51);
+    color: white;
+}
+
+.winner{
+    position: absolute;
+    left: 380px;
+    top: 550px;
+    width: 600px;
+    height: 100px;
+    border-radius: 3px;
+    background: rgb(25, 168, 85);
+    color: white;
+}

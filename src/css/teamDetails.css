@@ -1,0 +1,130 @@
+.tdlink{
+  position: absolute;
+  right: 50px;
+  color: #30475e;
+  text-decoration: none;
+}
+
+.tdlink:hover {
+  text-decoration: underline;
+  text-decoration-color: #30475e;
+}
+
+.header{
+  display: flex;
+  text-align: center;
+  margin-left: 620px;
+}
+
+.header p{
+  font-size: 20px;
+}
+
+.tm{
+  position: absolute;
+  right: 250px;
+  top: 135px;
+  width: 150px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  background-color: #373b41;
+  color: white;
+  font-size: 20px;
+}
+
+.tm:hover{
+  background: #13171d;
+}
+
+.play{
+  position: absolute;
+  right: 30px;
+  top: 135px;
+  width: 200px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  background-color: #373b41;
+  color: white;
+  font-size: 20px;
+}
+
+.play:hover{
+  background: #13171d;
+}
+
+.table{
+    text-align: center;
+    margin-left: 30px;
+    width: 1300px;
+    height: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 8px;
+  }
+
+  th{
+      color: #222831;
+  }
+  
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  footer{
+    margin: 2px;
+    padding: 2px;
+    position: absolute;
+    bottom: 3px;
+    width: 1358px;
+    height: 50px;
+    background-color: #222831;
+    text-align: center;
+  }
+
+  footer button{
+    margin-top: 15px;
+    width: 200px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 2px;
+  }
+
+  .pop1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 320px;
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    text-align: center;
+}
+
+.tinput{
+  width: 250px;
+  height: 20px;
+  border-radius: 3px;
+}
+
+.pop2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 200px;
+  background-color: white;
+  box-shadow: 5px 10px 8px #888888;
+  text-align: center;
+}

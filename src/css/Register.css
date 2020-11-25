@@ -1,0 +1,148 @@
+
+.main{
+    padding: 2px;
+    margin: 2px;
+}
+
+.form{
+    text-align: left;
+    margin-top: 3%;
+    margin-left: 30%;
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+    box-shadow: 0 0 5px 5px #383e56;
+}
+
+label{
+    font-size: 20px;
+}
+
+.lb{
+    padding-right: 231px;
+}
+
+.lb1{
+    padding-right: 250px;
+}
+
+.span{
+    margin-top: 30px;
+}
+
+#input1{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: #4f81c7;
+    padding-left:10px;
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#input1:focus{
+    outline: none;
+    border-color: #0ba312;
+}
+
+#input2{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: #4f81c7;
+    padding-left:10px;
+    width: 250px;
+    height: 30px;
+    margin-left: 70px;
+}
+
+#input2:focus{
+    outline: none;
+    border-color: #0ba312;
+}
+
+#input3{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: #4f81c7;
+    padding-left:10px;
+    width: 580px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#input3:focus{
+    outline: none;
+    border-color: #0ba312;
+}
+
+#input4{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: #4f81c7;
+    padding-left:10px;
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#input4:focus{
+    outline: none;
+    border-color: #0ba312;
+}
+
+#input5{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-color: #4f81c7;
+    padding-left:10px;
+    width: 250px;
+    height: 30px;
+    margin-left: 70px;
+}
+
+#input5:focus{
+    outline: none;
+    border-color: #0ba312;
+}
+
+.btn{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.submit{
+    width: 250px;
+    height: 35px;
+    background-color: #3bc76c;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.clear{
+    width: 250px;
+    height: 35px;
+    background-color: crimson;
+    color: white;
+    margin-left: 80px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.link{
+    font-size: 20px;
+    margin-left: 160px;
+}
+

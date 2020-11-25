@@ -1,0 +1,87 @@
+.tlink{
+    position: absolute;
+    right: 50px;
+    color: #30475e;
+    text-decoration: none;
+  }
+  
+  .tlink:hover {
+    text-decoration: underline;
+    text-decoration-color: #30475e;
+  }
+
+  .title{
+    background: white;
+  }
+  
+  .maindiv{
+    width: 250px;
+    height: auto;
+    margin-left: 50px;
+    background: rgb(48, 50, 53);
+  }
+
+  .list{
+    margin-left: 15px;
+    padding-top: 10px;
+    font-size: 15px;
+    width: 180px;
+    height: 30px;
+    background: #ffffff;
+  }
+
+  .list:hover{
+    background: darkgray;
+  }
+
+  .listItem{
+    list-style-type: none;
+    position: relative;
+    top: -5px;
+    left: -20px;
+  }
+
+.tabledata{
+    position: absolute;
+    top: 170px;
+    right: 100px;
+    width: 50%;
+    height: auto;
+}
+
+.mtable {
+    text-align: center;
+    border: none;
+    border-collapse: collapse;
+  }
+
+  .tr{
+      border: none;
+  }
+
+  .tbody{
+      border: none;
+      text-align: center;
+  }
+
+  .thead{
+    position: absolute;
+    top: 100px;
+    right: 330px;
+  }
+
+  .thead2{
+    position: absolute;
+    top: 130px;
+    right: 100px;
+    color: rgba(230, 68, 68, 0.897);
+  }
+
+  .td {
+    width: 50px;
+    height: 30px;
+    text-align: center; 
+    border-bottom-style: groove;  
+  }
+
+
